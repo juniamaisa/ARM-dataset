@@ -173,25 +173,7 @@ perf script -i perf_<workload>_r1.data > out.txt
 
 ## 8. Citation
 
-If you use this dataset, please cite the following publication:
-
-**J. M. Oliveira, A. Musa, E. Parisi, F. Barchi and A. Acquaviva**,
-*“Deep Neural Networks Study for Advanced Code-reuse Attacks Detection,”*
-**2025 IEEE 9th Forum on Research and Technologies for Society and Industry (RTSI)**, Tunis, Tunisia, 2025, pp. 332–337.
-doi: **10.1109/RTSI64020.2025.11212515**
-
-A BibTeX entry is also provided:
-
-```
-@inproceedings{oliveira2025deep,
-  author={Oliveira, J. M. and Musa, A. and Parisi, E. and Barchi, F. and Acquaviva, A.},
-  title={Deep Neural Networks Study for Advanced Code-reuse Attacks Detection},
-  booktitle={2025 IEEE 9th Forum on Research and Technologies for Society and Industry (RTSI)},
-  year={2025},
-  pages={332--337},
-  doi={10.1109/RTSI64020.2025.11212515}
-}
-```
+This artifacts are part of work `Proposition of 6G RAN KPI as a Cognitive Integrity metric for a Protocol-Based AI Lifecycle Framework` submited on NOMS 2026.
 
 ---
 
