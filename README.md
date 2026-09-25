@@ -2,8 +2,7 @@
 
 # ARM Instruction-Trace Dataset (Raspberry Pi 2, CoreMark-PRO)
 
-This repository provides a collection of **raw processor-level execution traces** obtained from a **Raspberry Pi 2 Model B** using the Linux tool **perf** during the execution of **CoreMark-PRO** workloads.
-The dataset is intended to support research on **control-flow analysis**, **program behavior modeling**, and **advanced code-reuse attack detection** based on hardware-level execution traces.
+This repository provides a collection of **raw processor-level execution traces** obtained from a **Raspberry Pi 2 Model B** using the Linux tool **perf** during the execution of **CoreMark-PRO** workloads. CoreMark®-PRO (2015) is an industry-standard benchmark that measures the multi-processor performance of central processing units (CPU) and embedded microcrontrollers (MCU) <https://github.com/eembc/coremark-pro>. The dataset is intended to support research on **control-flow analysis**, **program behavior modeling**, and **advanced code-reuse attack detection** based on hardware-level execution traces.
 
 All files in this repository are provided **exactly as recorded** by `perf` (binary `.data` format), without any preprocessing.
 
